@@ -1,0 +1,75 @@
+---
+title: "Bioinformatics Resources"
+---
+
+# Just Starting
+
+As a learner, there are some core skills that we recommend you learn:
+
+- The R programming language
+- The Unix command-line
+- The Bioconductor project
+- Core statistics
+
+In this section we provide links to materials covering these topics. 
+
+Given how pervasive Bioconductor (which is built on R) is for bioinformatic analysis, we give R priority over learning a different language such as Python.
+However, Python is becoming more popular and so we also provide a link to introductory materials for this language. 
+
+## Introduction to data analysis with R and Bioconductor
+
+https://carpentries-incubator.github.io/bioc-intro/
+
+## The Bioconductor Project
+
+https://carpentries-incubator.github.io/bioc-project/
+
+## The Unix Shell
+
+https://swcarpentry.github.io/shell-novice/
+
+## Programming with Python
+
+https://swcarpentry.github.io/python-novice-inflammation/
+
+## Modern Statistics for Modern Biology
+
+https://www.huber.embl.de/msmb/
+
+
+# Applications
+
+## Proteomics
+
+### R for Mass Spectrometry
+
+https://rformassspectrometry.github.io/docs/
+
+
+## Bulk RNA-seq
+
+### RNA-seq analysis with Bioconductor (Bioconductor/Carpentries)
+
+https://carpentries-incubator.github.io/bioc-rnaseq/
+
+### Analysis of bulk RNA-seq (CRUK & Cambridge University)
+
+https://github.com/bioinformatics-core-shared-training/Bulk_RNAseq_Course_Base
+
+
+## Single-cell RNA-seq
+
+### Orchestrating Single-Cell Analysis with Bioconductor
+
+http://bioconductor.org/books/release/OSCA/
+
+### Analysis of single-cell RNA-seq (CRUK & Cambridge University)
+
+https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeqIntro_Base
+
+
+## Spatial Transcriptomics
+
+### Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor
+
+https://lmweber.org/OSTA-book/
